@@ -1,0 +1,41 @@
+.main{
+    position: relative;
+    background-color: wheat;
+    left: 10%;
+    top: 10%;
+    width: 170px;
+    height: 340px;
+}
+.buttons{
+    margin-left: 3px;
+    position: absolute;
+    width: 20px;
+}
+.button{
+    margin-bottom: 20px;
+    float: right;
+    height: 40px;
+}
+.elevators{
+    margin-left: 40px;
+    width: 9em;
+    height: 340px;
+}
+.elevator{
+    position: absolute;
+}
+#elevator_1{
+    position: absolute;
+    background: red;
+    top: 300px;
+    width: 45px;
+    height: 40px;
+}
+#elevator_2{
+    position: absolute;
+    top: 300px;
+    margin-left: 80px;
+    background: red;
+    width: 45px;
+    height: 40px;
+}
